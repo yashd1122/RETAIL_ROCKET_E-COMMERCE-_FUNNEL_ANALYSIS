@@ -19,6 +19,16 @@ This project analyzes customer behavior on an e-commerce platform using the **Re
 - Overall conversion rate is only **0.88%**, indicating significant room for improvement
 - Improving the first stage conversion by just **1%** could bring in **over 2,500 additional customers**
 
+##  Dataset
+
+The original dataset file is **very large (~200 MB)**, so it is **not included** in this repository due to GitHub's file size limits.
+
+### How to Get the Data:
+1. Download the dataset from Kaggle:  
+   [Retail Rocket E-commerce Events](https://www.kaggle.com/datasets/retailrocket/ecommerce-events-history-in-cosmetics-shop)
+2. Place the CSV file inside a folder named `data/` in your project directory.
+3. Run the Jupyter notebook (`Ecommerce_Funnel_analysis.ipynb`).
+
 ## Dashboard Highlights
 
 - **3 Key KPIs** at the top: Total Unique Visitors, Overall Conversion Rate, Biggest Drop-off Stage
