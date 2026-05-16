@@ -1,0 +1,7 @@
+# Ignore large data files
+*.csv
+*.zip
+data/
+*.twbx
+.ipynb_checkpoints/
+__pycache__/
