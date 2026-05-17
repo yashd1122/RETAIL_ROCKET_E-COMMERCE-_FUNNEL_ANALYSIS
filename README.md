@@ -29,12 +29,33 @@ The original dataset file is **very large (~200 MB)**, so it is **not included**
 2. Place the CSV file inside a folder named `data/` in your project directory.
 3. Run the Jupyter notebook (`Ecommerce_Funnel_analysis.ipynb`).
 
+## 📊 Tableau Dashboard
+
+I created an interactive Tableau dashboard to visualize the e-commerce funnel analysis.
+
+### Dashboard Screenshots
+
+**Main Dashboard Overview**
+<img width="1659" height="818" alt="image" src="https://github.com/user-attachments/assets/faac21e2-6cf3-42df-b425-c5263056419c" />
+
+
+**Purchase Funnel Analysis**
+<img width="1440" height="731" alt="image" src="https://github.com/user-attachments/assets/744443ff-a9b7-4c64-bd1e-fe1c89168809" />
+
+**Customer Activity by Hour**
+<img width="1448" height="736" alt="image" src="https://github.com/user-attachments/assets/626e6e74-bc99-4778-8ab1-807545e8ef86" />
+
+
+### How to View the Dashboard
+
+- Download the `.twb` file and open it in **Tableau Desktop**.
+- For the best interactive experience, the dashboard is also available on **Tableau Public** (link available on request).
+
 ## Dashboard Highlights
 
 - **3 Key KPIs** at the top: Total Unique Visitors, Overall Conversion Rate, Biggest Drop-off Stage
 - **Purchase Funnel** showing true conversion rates between stages
 - **Hourly Activity Trend** with clear peak hours
-- **Day of Week Analysis** highlighting best performing days
 - Clean and professional design with actionable insights
 
 ## Tools & Technologies Used
