@@ -36,7 +36,7 @@ I created an interactive Tableau dashboard to visualize the e-commerce funnel an
 ### Dashboard Screenshots
 
 **Main Dashboard Overview**
-<img width="1198" height="794" alt="image" src="https://github.com/user-attachments/assets/1938a0fd-8db5-49ef-a1ba-a9c64428d2a8" />
+<img width="1201" height="796" alt="image" src="https://github.com/user-attachments/assets/296c0f85-27fc-4cb1-9d4e-97ee5db8bf80" />
 
 **Purchase Funnel Analysis**
 <img width="1444" height="771" alt="image" src="https://github.com/user-attachments/assets/f406fc99-94bb-4c90-9967-edfffecfefa5" />
