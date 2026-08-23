@@ -36,14 +36,14 @@ I created an interactive Tableau dashboard to visualize the e-commerce funnel an
 ### Dashboard Screenshots
 
 **Main Dashboard Overview**
-<img width="1659" height="818" alt="image" src="https://github.com/user-attachments/assets/faac21e2-6cf3-42df-b425-c5263056419c" />
-
+<img width="1198" height="794" alt="image" src="https://github.com/user-attachments/assets/1938a0fd-8db5-49ef-a1ba-a9c64428d2a8" />
 
 **Purchase Funnel Analysis**
-<img width="1440" height="731" alt="image" src="https://github.com/user-attachments/assets/744443ff-a9b7-4c64-bd1e-fe1c89168809" />
+<img width="1444" height="771" alt="image" src="https://github.com/user-attachments/assets/f406fc99-94bb-4c90-9967-edfffecfefa5" />
 
 **Customer Activity by Hour**
-<img width="1448" height="736" alt="image" src="https://github.com/user-attachments/assets/626e6e74-bc99-4778-8ab1-807545e8ef86" />
+<img width="1386" height="782" alt="image" src="https://github.com/user-attachments/assets/5e34d432-25d6-4b80-9c4a-d59e0a3080ec" />
+
 
 
 ### How to View the Dashboard
